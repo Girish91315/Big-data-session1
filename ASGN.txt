@@ -1,4 +1,4 @@
-RDD is a fundamental data structure of Spark. It is an immutable distributed collection of objects. Each dataset in RDD is divided into logical partitions, which may be computed on different nodes of the cluster.
+2.RDD is a fundamental data structure of Spark. It is an immutable distributed collection of objects. Each dataset in RDD is divided into logical partitions, which may be computed on different nodes of the cluster.
 Features are : 
 * In Memory computation
 * Lazy evalluation
@@ -7,3 +7,8 @@ Features are :
 * Persistence
 * Partitioning
 * Location-Stickiness
+
+3.Apache Spark RDD Operations
+
+Transformations
+Actions
